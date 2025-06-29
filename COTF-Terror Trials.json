@@ -1,6 +1,6 @@
 {
 	"Name": "",
-	"Version": 1750757411,
+	"Version": 1751166335,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -102,6 +102,8 @@
 				"282",
 				"283",
 				"277",
+				"178",
+				"183",
 				"185",
 				"186",
 				"265",
@@ -168,10 +170,6 @@
 				[
 					"135",
 					"229"
-				],
-				[
-					"178",
-					"183"
 				]
 			]
 		}
@@ -309,7 +307,7 @@
 		},
 		{
 			"Name": "The Hillbilly",
-			"KillerNotes": "Shroud of Separation replaces second Vigo's",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				"41"
@@ -371,7 +369,8 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5
+				5,
+				6
 			],
 			"KillerOfferings": [
 				5
@@ -379,7 +378,7 @@
 		},
 		{
 			"Name": "The Nurse",
-			"KillerNotes": "Shroud of Separation replaces second Vigo's",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				"22"
@@ -460,7 +459,8 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5
+				5,
+				6
 			],
 			"KillerOfferings": [
 				5
@@ -1088,7 +1088,7 @@
 		},
 		{
 			"Name": "The Spirit",
-			"KillerNotes": "Shroud of Separation replaces second Vigo's.\n",
+			"KillerNotes": "\n",
 			"IsDisabled": false,
 			"Map": [
 				"8"
@@ -1166,7 +1166,8 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5
+				5,
+				6
 			],
 			"KillerOfferings": [
 				5
@@ -1697,7 +1698,7 @@
 		},
 		{
 			"Name": "The Blight",
-			"KillerNotes": "Shroud of Separation replaces second Vigo's",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				"4"
@@ -1779,7 +1780,8 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5
+				5,
+				6
 			],
 			"KillerOfferings": [
 				5
@@ -2998,7 +3000,7 @@
 		},
 		{
 			"Name": "The Ghoul",
-			"KillerNotes": "Shroud of Separation replaces second Vigo's",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				"28"
@@ -3068,7 +3070,8 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5
+				5,
+				6
 			],
 			"KillerOfferings": [
 				5
